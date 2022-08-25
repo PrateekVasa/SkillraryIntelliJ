@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6481fe58-a4db-487a-a88d-0f321ab1cfea" name="Changes" comment="hi">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/skillraryreport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/edcationalDomain/wipro/genericLibraries/AutoConstant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/edcationalDomain/wipro/genericLibraries/BaseClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/edcationalDomain/wipro/genericLibraries/FileUtilities.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/edcationalDomain/wipro/genericLibraries/Photo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/edcationalDomain/wipro/genericLibraries/WebDriverUtilities.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/educationalDomain/wipro/POMpages/AddtoCartPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/educationalDomain/wipro/POMpages/ContactUsPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/educationalDomain/wipro/POMpages/CoreJavaPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/educationalDomain/wipro/POMpages/LoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/educationalDomain/wipro/POMpages/SkillraryDemoLoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/educationalDomain/wipro/POMpages/TestingPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/educationalDomain/wipro/POMpages/WishlistPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/educationalDomain/wipro/Scripts/TestCase1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/educationalDomain/wipro/Scripts/TestCase2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/educationalDomain/wipro/Scripts/TestCase3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/educationalDomain/wipro/Scripts/TestCase4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/data.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/excel.xlsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DTphU7CDHGUtM9ng5yXWnmYGST" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;D:/IntelliJ Projects/com.educationalDomain.wipro/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/.m2/repository/org/testng/testng/7.4.0&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.edcationalDomain.wipro.genericLibraries" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestCase4">
+    <configuration name="TestCase1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.educationalDomain.wipro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.educationalDomain.wipro.Scripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.educationalDomain.wipro.Scripts" />
+      <option name="MAIN_CLASS_NAME" value="com.educationalDomain.wipro.Scripts.TestCase1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.educationalDomain.wipro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.educationalDomain.wipro.Scripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.educationalDomain.wipro.Scripts" />
+      <option name="MAIN_CLASS_NAME" value="com.educationalDomain.wipro.Scripts.TestCase2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.educationalDomain.wipro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.educationalDomain.wipro.Scripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.educationalDomain.wipro.Scripts" />
+      <option name="MAIN_CLASS_NAME" value="com.educationalDomain.wipro.Scripts.TestCase3" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase4" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.educationalDomain.wipro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.educationalDomain.wipro.Scripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.educationalDomain.wipro.Scripts" />
+      <option name="MAIN_CLASS_NAME" value="com.educationalDomain.wipro.Scripts.TestCase4" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestCase4" />
+        <item itemvalue="TestNG.TestCase2" />
+        <item itemvalue="TestNG.TestCase3" />
+        <item itemvalue="TestNG.TestCase1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6481fe58-a4db-487a-a88d-0f321ab1cfea" name="Changes" comment="" />
+      <created>1660733051023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660733051023</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hi" />
+    <option name="LAST_COMMIT_MESSAGE" value="hi" />
+  </component>
+</project>
