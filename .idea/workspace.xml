@@ -4,34 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6481fe58-a4db-487a-a88d-0f321ab1cfea" name="Changes" comment="hi">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/skillraryreport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edcationalDomain/wipro/genericLibraries/AutoConstant.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edcationalDomain/wipro/genericLibraries/BaseClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edcationalDomain/wipro/genericLibraries/FileUtilities.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edcationalDomain/wipro/genericLibraries/Photo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edcationalDomain/wipro/genericLibraries/WebDriverUtilities.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/educationalDomain/wipro/POMpages/AddtoCartPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/educationalDomain/wipro/POMpages/ContactUsPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/educationalDomain/wipro/POMpages/CoreJavaPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/educationalDomain/wipro/POMpages/LoginPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/educationalDomain/wipro/POMpages/SkillraryDemoLoginPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/educationalDomain/wipro/POMpages/TestingPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/educationalDomain/wipro/POMpages/WishlistPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/educationalDomain/wipro/Scripts/TestCase1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/educationalDomain/wipro/Scripts/TestCase2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/educationalDomain/wipro/Scripts/TestCase3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/educationalDomain/wipro/Scripts/TestCase4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/data.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/excel.xlsx" afterDir="false" />
+    <list default="true" id="6481fe58-a4db-487a-a88d-0f321ab1cfea" name="Changes" comment="hii">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,6 +144,14 @@
       <option name="presentableId" value="Default" />
       <updated>1660733051023</updated>
     </task>
+    <task id="LOCAL-00001" summary="hi">
+      <created>1661393219128</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661393219128</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
